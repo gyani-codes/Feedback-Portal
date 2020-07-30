@@ -2,4 +2,4 @@ Feedback-Portal/Lib/*
 Feedback-Portal/Include/*
 Feedback-Portal/Scripts/*
 pip-selfcheck.json
-pyenv.cfg
+pyvenv.cfg
