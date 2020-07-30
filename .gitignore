@@ -1,5 +1,5 @@
-Feedback-Portal/Lib/*
-Feedback-Portal/Include/*
-Feedback-Portal/Scripts/*
+FeedbackPortal/Lib/*
+FeedbackPortal/Include/*
+FeedbackPortal/Scripts/*
 pip-selfcheck.json
 pyvenv.cfg
