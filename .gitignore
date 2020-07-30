@@ -1,5 +1,5 @@
-Feedback-Portal/Include/*
 Feedback-Portal/Lib/*
+Feedback-Portal/Include/*
 Feedback-Portal/Scripts/*
-pip-selfcheck.jsom
+pip-selfcheck.json
 pyenv.cfg
