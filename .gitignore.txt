@@ -1,0 +1,5 @@
+Feedback-Portal/Include/*
+Feedback-Portal/Lib/*
+Feedback-Portal/Scripts/*
+pip-selfcheck.jsom
+pyenv.cfg
