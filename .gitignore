@@ -3,3 +3,4 @@ FeedbackPortal/Include/*
 FeedbackPortal/Scripts/*
 pip-selfcheck.json
 pyvenv.cfg
+FeedbackManagementPortal/FeedbackManagementPortal/__pycache__/*
