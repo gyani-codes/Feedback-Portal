@@ -5,3 +5,4 @@ pip-selfcheck.json
 pyvenv.cfg
 FeedbackManagementPortal/FeedbackManagementPortal/__pycache__/*
 .vscode/*
+FeedbackManagementPortal/__pycache__/urls.cpython-36.pyc
