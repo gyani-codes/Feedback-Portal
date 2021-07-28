@@ -1,7 +1,6 @@
 from django import forms
 from .models import Feedback, Course, Teacher
-#TODO://
-#Forms 1) forms.ModelForm padhana hai
+
 class FeedbackForm(forms.ModelForm):
     
     
